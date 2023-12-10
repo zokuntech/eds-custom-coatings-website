@@ -17,7 +17,6 @@ module.exports = {
     },
     extend: {
       colors: {
-        blue: '0094FE',
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
@@ -67,6 +66,7 @@ module.exports = {
           to: { height: 0 },
         },
       },
+
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
