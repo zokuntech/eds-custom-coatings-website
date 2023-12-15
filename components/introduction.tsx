@@ -6,7 +6,7 @@ export default function Introduction() {
         <section className='my-40 w-full flex px-36 items-center'>
             <div className='w-1/2 h-full '>
                 <h4 className='text-base font-medium text-[#0094FE] cursor-default'>Introduction</h4>
-                <h1 className='cursor-default text-4xl font-semibold text-[#2A2A2A] my-2'>Transform Your Space with Premium Painting Services</h1>
+                <h1 className='cursor-default text-4xl font-semibold text-[#2A2A2A] my-2'>Painting Dreams, Creating Realities Your Space, Perfected</h1>
                 <h2 className='text-[#4b4b4b] cursor-default text-lg'>At our painting company, we pride ourselves on using high-quality materials and eco-friendly paints to deliver exceptional results. Whether you're a homeowner or a business owner, we have the expertise to transform your space and create a fresh, vibrant look.</h2>
             </div>
             <div className='w-1/2 h-full grid grid-cols-2 gap-10 ml-14'>
